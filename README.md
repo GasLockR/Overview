@@ -24,7 +24,8 @@ Web3 adoption will take place on L2's not L1's. You will often have users and in
 6. Pricing model..
 
 
-- Problem / existing solutions
+
+## Problem / existing solutions
   
   1. **Availability**: More people than ever are becoming reliant on L2's. Organisations (including DAOs) need to be able to operate through turbulent times. Services need to provide guarantees for availability through SLAs (Service Level Agreements) in order for users to trust and adopt these services. In the past base gas fees on Polygon have spiked to $200 for a simple token transfer. This makes L2's unusable at times. L2's are not currently something users and organisations can rely on all of the time.
   
@@ -32,7 +33,7 @@ Web3 adoption will take place on L2's not L1's. You will often have users and in
   
   3. **Wallet UX**: Every time a user wants to submit a transaction, they have to manually approve transactions and think about what gas price to specify. This doesn't need to be the user's concern and it often confuses new web3 users.
 
-- The future / ideal solution
+## The future / ideal solution
   
   1. In the future businesses will operate fully on-chain and users will use services on-chain daily. Fully on-chain DAOs will become more prevalent. They should have the confidence that they will be able to continue operating through unexpected events and volatile gas prices.
   
@@ -40,7 +41,7 @@ Web3 adoption will take place on L2's not L1's. You will often have users and in
 
   2. (ii) In the future you will have much more friendly wallets where the user doesn't have to manually approve every transaction or even think about gas prices.
 
-- What we built to address these problems / Our solution
+## What we built to address these problems / Our solution
   
   We built the first GasFi protocol that can be used as foundational on-chain infrastructure to build other services that will solve the reliability, onboarding and UX problems we face today.
   
@@ -54,4 +55,6 @@ Web3 adoption will take place on L2's not L1's. You will often have users and in
   
   Through a simple web GUI users can purchase insurance specifying how long they would like the protection for and pay a small premium to be protected against tail risk of gas fluctuations.
 
-- Demo
+## Demo
+
+Demo video TBC.
