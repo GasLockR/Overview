@@ -7,12 +7,16 @@ This is a brief introduction to our product: We have designed a comprehensive su
 
 We believe that our product's versatility and adaptability will appeal to users who recognize the growing importance of Layer-2 solutions and the increasing demand for tools that facilitate efficient, secure, and cost-effective transactions within the Ethereum network.
 
+## Features
 
+1. Different types of insurances services.
 
-We build the website...
+2. Advanced financial derivative products specifically targeting gas price fluctuations.
 
-In the smart contract, we...
+3. Real-time calculated premium rate.
 
-We aim to use Axiom as ZK proof for historical gas price...
+4. Intuitive line chart for available maximum coverage.
 
-For the options products, we made the pricing model based on EIP1559...
+5. Aim to use Axiom as ZK proof for historical gas price.
+
+6. Pricing model..
