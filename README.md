@@ -1,29 +1,8 @@
 # Overview
-Description and structure of GasLockR
 
-Our project offers a diverse range of insurance services for gas prices on Layer-2, tailored to different time periods. In addition, we are introducing advanced financial derivative products specifically targeting gas price fluctuations.
+GasLockR is the first trustless GasFi protocol.
 
-This is a brief introduction to our product: We have designed a comprehensive suite of solutions that cater to the unique needs of users in the Layer-2 ecosystem. Our insurance services provide coverage for various gas price scenarios, allowing users to hedge against potential risks and maintain the stability of their transactions. Furthermore, our innovative financial derivative products enable more sophisticated market participants to capitalize on gas price movements, creating opportunities for enhanced returns and risk management.
-
-We believe that our product's versatility and adaptability will appeal to users who recognize the growing importance of Layer-2 solutions and the increasing demand for tools that facilitate efficient, secure, and cost-effective transactions within the Ethereum network.
-
-Web3 adoption will take place on L2's not L1's. You will often have users and institutions submitting 100's or even 1000's of transactions per day on L2's so it's important that they are protected against the occasional event that causes gas prices to spike. For example if you are running a business on L2 that relies on submitting many transactions you would want to derisk by buying insurance.
-
-## Features
-
-1. Different types of insurances services.
-
-2. Advanced financial derivative products specifically targeting gas price fluctuations.
-
-3. Real-time calculated premium rate.
-
-4. Intuitive line chart for available maximum coverage.
-
-5. Aim to use Axiom as ZK proof for historical gas price.
-
-6. Pricing model..
-
-
+GasInsure is the first insurance service for gas prices on L2's.
 
 ## Problem / existing solutions
   
@@ -43,7 +22,7 @@ Web3 adoption will take place on L2's not L1's. You will often have users and in
 
 ## What we built to address these problems / Our solution
   
-  We built the first trustless GasFi protocol. The protocol uses Axiom, a ZK coprocessor for trustlessly reading historical gas prices to provide verifiable correctly priced GasFi derivatives based on financial models we have built ourselves. The protocol is interoperable with other protocols and can be used as foundational on-chain infrastructure to build protocols and services that will solve the **reliability**, **onboarding** and **UX** problems we face today.
+  We built the first trustless GasFi protocol. GasLockR uses Axiom, a ZK coprocessor for trustlessly reading historical gas prices to provide verifiable correctly priced GasFi derivatives based on financial models that are updated in real time. GasLockR is interoperable with other protocols and can be used as foundational on-chain infrastructure to build protocols and services that will solve the **reliability**, **onboarding** and **UX** problems we face today.
   
   We provide an efficient way to hedge against the risk of rising gas prices, allowing users and organisations to rely on L2's. Services that operate on-chain will finally be able to provide SLAs (Service Level Agreements) to their users, building trust and acting as a catalyst for web3 adoption.
   
@@ -53,10 +32,12 @@ Web3 adoption will take place on L2's not L1's. You will often have users and in
   
   We built an insurance service as a demonstration of how GasLockR can be used as financial infrastructure to build amazing services.
   
-  GasLockR is an insurance service that aims to provide users with protection against Ethereum gas price fluctuations.
+  GasInsure is an insurance service that aims to provide users with protection against gas price fluctuations on L2's.
   
-  Through a simple web GUI users can purchase insurance specifying how long they would like the protection for and pay a small premium to be protected against tail risk of gas fluctuations.
+  Through a simple web GUI users can purchase insurance specifying how long they would like the protection for and pay a small premium to be protected against the tail risk of gas price fluctuations.
+
 
 ## Demo
 
 Demo video TBC.
+
