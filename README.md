@@ -16,9 +16,9 @@ GasInsure is the first insurance service for gas prices on L2's.
   
   1. In the future businesses will operate fully on-chain and users will use services on-chain daily. Fully on-chain DAOs will become more prevalent. Most of the on-chain activity will take place on L2's and it will be common for organisations to submit thousands of transactions per day to the L2. They should have the confidence that they will be able to continue operating through unexpected events and volatile gas prices.
   
-  2. (i) With account abstraction (ERC-4337), you can have paymasters that pay for your gas fees - someone else can do that for you. And someone else can pay the gas for you meaning you don't need any tokens. However the paymasteres need a way to protect themselves against
+  2. With account abstraction (ERC-4337), you can have paymasters that pay for your gas fees - someone else can do that for you. And someone else can pay the gas for you meaning you don't need any tokens. However the paymasteres need a way to protect themselves against
 
-  2. (ii) In the future you will have much more friendly wallets where the user doesn't have to manually approve every transaction or even think about gas prices.
+  3. In the future you will have much more friendly wallets where the user doesn't have to manually approve every transaction or even think about gas prices.
 
 ## What we built to address these problems / Our solution
   
