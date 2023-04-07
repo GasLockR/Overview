@@ -29,7 +29,7 @@ Web3 adoption will take place on L2's not L1's. You will often have users and in
   
   1. **Reliabilty**: More people than ever are becoming reliant on L2's. Organisations (including DAOs) need to be able to operate through turbulent times. Services need to provide guarantees for availability through SLAs (Service Level Agreements) in order for users to trust and adopt these services e.g. AWS provides SLAs for each of its service often more than 99.99%. In the past base gas fees on Polygon have spiked to $200 for a simple token transfer. This makes L2's unusable at times. L2's are not currently something users and organisations can rely on all of the time.
   
-  2. **Onboarding**: Users must already have tokens in their wallet to cover gas fees. This creates a chicken and egg problem where the user needs funds before they can do anything on-chain. This adds an uncessary barrier to the L2 onboarding process. Existing solutions like faucets are difficult to use and often don't provide enough to even cover the fees a lot of the time.
+  2. **Onboarding**: Users must already have tokens in their wallet to cover gas fees. This creates a chicken and egg problem where the user needs funds before they can do anything on-chain, presenting an uncessary barrier to the L2 onboarding process. Existing solutions like faucets are difficult to use and often don't provide enough to even cover the fees of a single transaction.
   
   3. **UX**: Every time a user wants to submit a transaction, they have to manually approve transactions and think about what gas price to specify. This doesn't need to be the user's concern and it often confuses new web3 users.
 
@@ -43,7 +43,7 @@ Web3 adoption will take place on L2's not L1's. You will often have users and in
 
 ## What we built to address these problems / Our solution
   
-  We built the first trustless GasFi protocol. It can be used as foundational on-chain infrastructure to build protocols and services that will solve the reliability, onboarding and UX problems we face today.
+  We built the first trustless GasFi protocol. The protocol uses Axiom, a ZK coprocessor for trustlessly reading historical gas prices to provide verifiable correctly priced GasFi derivatives based on financial models we have built ourselves. The protocol is interoperable with other protocols and can be used as foundational on-chain infrastructure to build protocols and services that will solve the **reliability**, **onboarding** and **UX** problems we face today.
   
   We provide an efficient way to hedge against the risk of rising gas prices, allowing users and organisations to rely on L2's. Services that operate on-chain will finally be able to provide SLAs (Service Level Agreements) to their users, building trust and acting as a catalyst for web3 adoption.
   
