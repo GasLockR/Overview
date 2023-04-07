@@ -30,7 +30,7 @@ GasInsure is the first insurance service for gas prices on L2's.
   
   With account abstraction (ERC-4337), users can create a session key just like logging into a game where they pre-approve particular transactions. Wallets can leverage this to automatically submit transactions on the user's behalf without them having to manually approve them and specify a gas price. Our product allows wallets to completely abstract away gas prices and together with account abstraction provide a seamless user experience where the user is not even aware that gas prices exist.
   
-  We built an insurance service as a demonstration of how GasLockR can be used as financial infrastructure to build amazing services.
+  We built GasInsure, an insurance service as a demonstration of how GasLockR can be used as financial infrastructure to build amazing services.
   
   GasInsure is an insurance service that aims to provide users with protection against gas price fluctuations on L2's.
   
