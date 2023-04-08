@@ -39,5 +39,5 @@ GasInsure is the first insurance service for gas prices designed for L2's. It is
 
 ## Demo
 
-Demo video TBC.
+https://www.youtube.com/watch?v=fprzRbCeay4
 
