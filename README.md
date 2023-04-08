@@ -1,6 +1,6 @@
 # Overview
 
-GasLockR is the first trustless GasFi protocol. It leverages ZK proofs for trustless reading of historical gas prices.
+GasLockR is the first trustless GasFi protocol. It leverages ZK proofs for trustless reading of historical gas prices to build on-chain derivatives based on gas prices.
 
 GasInsure is the first insurance service for gas prices designed for L2's. It is built on top of the GasLockR protocol.
 
